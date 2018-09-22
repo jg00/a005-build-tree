@@ -13,7 +13,9 @@ Assignment: Write a program which will remove duplicates from the array.
 Example:
 
 names = ["Alex","John","Mary","Steve","John", "Steve"]
+
 After the duplicates are removed it should be 
+
 names = ["Alex","John","Mary","Steve"]
  
 Assignment: Write a program which finds the largest element in the array 
