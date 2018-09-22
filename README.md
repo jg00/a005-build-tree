@@ -1,11 +1,11 @@
 # a005-build-tree
 
-# Notes
+# Repository Notes
 Few practice problems
 
 # Main items
-1 Build tree of *
-2 Filtered list of array
+1 Build tree with asterisks (algorithms.py)
+2 Filtered list of array (algorithms.py)
 
 # File - algorithms.py
 Assignment - Algorithms Practice
