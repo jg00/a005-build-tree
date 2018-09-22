@@ -1,13 +1,13 @@
-#### *a005-build-tree*
+### a005-build-tree
 
-#### *Repository Notes*
-Few practice problems
+### Repository Notes
+*Few practice problem*
 
-#### *Main items*
+### Main items
 * Build tree with asterisks (algorithms.py)
 * Filtered list of array (algorithms.py)
 
-#### *File - algorithms.py*
+### File - algorithms.py
 Assignment - Algorithms Practice
 
 Assignment: Write a program which will remove duplicates from the array. 
