@@ -2,11 +2,9 @@
 
 ### Repository Notes
 Few practice problem
-
 ### Main items
 * Build tree with asterisks (algorithms.py)
 * Filtered list of array (algorithms.py)
-
 ### File - algorithms.py
 Assignment - Algorithms Practice
 
