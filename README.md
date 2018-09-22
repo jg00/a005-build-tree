@@ -4,8 +4,8 @@
 Few practice problems
 
 ### Main items
-1. Build tree with asterisks (algorithms.py)
-2. Filtered list of array (algorithms.py)
+- Build tree with asterisks (algorithms.py)
+- Filtered list of array (algorithms.py)
 
 ### File - algorithms.py
 Assignment - Algorithms Practice
