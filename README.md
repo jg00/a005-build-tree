@@ -1,7 +1,7 @@
 ###### a005-build-tree
 
 ### Repository Notes
-Few practice problems
+ Few practice problems
 
 ### Main items
 - Build tree with asterisks (algorithms.py)
