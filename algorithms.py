@@ -53,9 +53,9 @@ print("Min: {}".format(current_value))
 print("\n")
 
 
-# Assignment 4 - Create Tree with *
-print("Build tree based on odd number of *: ")
-odd_number = 19
+# Assignment 4 - Create Tree with * (ie given odd number of stars)
+print("Build tree given odd number of asterisks: ")
+odd_number = 9
 
 count_of_odd_numbers = 0
 for i in range(1, odd_number+1, 2):
@@ -74,4 +74,19 @@ for j in range(1, odd_number+1, 2):
     print( (" " * idx) + ("*" * j) )
     idx = idx - 1
 
+print("\n")
 
+
+# Assignment 4b - Create Tree with * (ie given number of levels for the tree)
+# 1 3 5 7 > *
+# 3 2 1 0 > spaces
+
+print("Build tree given number of levels for the tree: ")
+levels = 5
+stars = 1 
+for lvl in range(levels-1,-1,-1):
+    # print(str(lvl) + " " + str(stars))
+    print(lvl * " " + stars * "*")
+    stars += 2
+
+print("\n")
